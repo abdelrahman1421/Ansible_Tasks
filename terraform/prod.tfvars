@@ -1,0 +1,7 @@
+vpc_cidr             = "10.0.0.0/16"
+public_subnet_a_cidr = "10.0.0.0/24"
+instance_ami_a       = "ami-08c40ec9ead489470"
+instance_ami_b       = "ami-06640050dc3f556bb"
+instance_ami_c       = "ami-09d3b3274b6c5d4aa"
+instance_type        = "t2.micro"
+ssh_key              = "terraform"
